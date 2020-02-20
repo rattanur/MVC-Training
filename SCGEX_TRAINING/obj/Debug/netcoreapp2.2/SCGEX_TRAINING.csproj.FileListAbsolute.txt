@@ -1,0 +1,66 @@
+/Users/rattanun.champ/Source Code/C# .NET/SCGEX_TRAINING/SCGEX_TRAINING/bin/Debug/netcoreapp2.2/SCGEX_TRAINING.deps.json
+/Users/rattanun.champ/Source Code/C# .NET/SCGEX_TRAINING/SCGEX_TRAINING/bin/Debug/netcoreapp2.2/SCGEX_TRAINING.runtimeconfig.json
+/Users/rattanun.champ/Source Code/C# .NET/SCGEX_TRAINING/SCGEX_TRAINING/bin/Debug/netcoreapp2.2/SCGEX_TRAINING.runtimeconfig.dev.json
+/Users/rattanun.champ/Source Code/C# .NET/SCGEX_TRAINING/SCGEX_TRAINING/bin/Debug/netcoreapp2.2/SCGEX_TRAINING.dll
+/Users/rattanun.champ/Source Code/C# .NET/SCGEX_TRAINING/SCGEX_TRAINING/bin/Debug/netcoreapp2.2/SCGEX_TRAINING.pdb
+/Users/rattanun.champ/Source Code/C# .NET/SCGEX_TRAINING/SCGEX_TRAINING/bin/Debug/netcoreapp2.2/SCGEX_TRAINING.Views.dll
+/Users/rattanun.champ/Source Code/C# .NET/SCGEX_TRAINING/SCGEX_TRAINING/bin/Debug/netcoreapp2.2/SCGEX_TRAINING.Views.pdb
+/Users/rattanun.champ/Source Code/C# .NET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/SCGEX_TRAINING.csprojAssemblyReference.cache
+/Users/rattanun.champ/Source Code/C# .NET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/SCGEX_TRAINING.csproj.CoreCompileInputs.cache
+/Users/rattanun.champ/Source Code/C# .NET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/SCGEX_TRAINING.RazorAssemblyInfo.cache
+/Users/rattanun.champ/Source Code/C# .NET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/SCGEX_TRAINING.RazorAssemblyInfo.cs
+/Users/rattanun.champ/Source Code/C# .NET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/SCGEX_TRAINING.AssemblyInfoInputs.cache
+/Users/rattanun.champ/Source Code/C# .NET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/SCGEX_TRAINING.AssemblyInfo.cs
+/Users/rattanun.champ/Source Code/C# .NET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/SCGEX_TRAINING.TagHelpers.input.cache
+/Users/rattanun.champ/Source Code/C# .NET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/SCGEX_TRAINING.TagHelpers.output.cache
+/Users/rattanun.champ/Source Code/C# .NET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/SCGEX_TRAINING.RazorCoreGenerate.cache
+/Users/rattanun.champ/Source Code/C# .NET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+/Users/rattanun.champ/Source Code/C# .NET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs
+/Users/rattanun.champ/Source Code/C# .NET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/rattanun.champ/Source Code/C# .NET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/rattanun.champ/Source Code/C# .NET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/rattanun.champ/Source Code/C# .NET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/rattanun.champ/Source Code/C# .NET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/rattanun.champ/Source Code/C# .NET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/rattanun.champ/Source Code/C# .NET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/SCGEX_TRAINING.RazorTargetAssemblyInfo.cache
+/Users/rattanun.champ/Source Code/C# .NET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/SCGEX_TRAINING.RazorTargetAssemblyInfo.cs
+/Users/rattanun.champ/Source Code/C# .NET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/SCGEX_TRAINING.Views.pdb
+/Users/rattanun.champ/Source Code/C# .NET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/SCGEX_TRAINING.dll
+/Users/rattanun.champ/Source Code/C# .NET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/SCGEX_TRAINING.pdb
+/Users/rattanun.champ/Source Code/C# .NET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/SCGEX_TRAINING.csproj.CopyComplete
+/Users/rattanun.champ/Source Code/C# .NET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/Razor/Views/Shapes/Circle.g.cshtml.cs
+/Users/rattanun.champ/Source Code/C# .NET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/Razor/Views/Machines/Index.g.cshtml.cs
+/Users/rattanun.champ/SourceCode/DOTNET/SCGEX_TRAINING/SCGEX_TRAINING/bin/Debug/netcoreapp2.2/SCGEX_TRAINING.deps.json
+/Users/rattanun.champ/SourceCode/DOTNET/SCGEX_TRAINING/SCGEX_TRAINING/bin/Debug/netcoreapp2.2/SCGEX_TRAINING.runtimeconfig.json
+/Users/rattanun.champ/SourceCode/DOTNET/SCGEX_TRAINING/SCGEX_TRAINING/bin/Debug/netcoreapp2.2/SCGEX_TRAINING.runtimeconfig.dev.json
+/Users/rattanun.champ/SourceCode/DOTNET/SCGEX_TRAINING/SCGEX_TRAINING/bin/Debug/netcoreapp2.2/SCGEX_TRAINING.dll
+/Users/rattanun.champ/SourceCode/DOTNET/SCGEX_TRAINING/SCGEX_TRAINING/bin/Debug/netcoreapp2.2/SCGEX_TRAINING.pdb
+/Users/rattanun.champ/SourceCode/DOTNET/SCGEX_TRAINING/SCGEX_TRAINING/bin/Debug/netcoreapp2.2/SCGEX_TRAINING.Views.dll
+/Users/rattanun.champ/SourceCode/DOTNET/SCGEX_TRAINING/SCGEX_TRAINING/bin/Debug/netcoreapp2.2/SCGEX_TRAINING.Views.pdb
+/Users/rattanun.champ/SourceCode/DOTNET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/SCGEX_TRAINING.csprojAssemblyReference.cache
+/Users/rattanun.champ/SourceCode/DOTNET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/SCGEX_TRAINING.csproj.CoreCompileInputs.cache
+/Users/rattanun.champ/SourceCode/DOTNET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/SCGEX_TRAINING.RazorAssemblyInfo.cache
+/Users/rattanun.champ/SourceCode/DOTNET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/SCGEX_TRAINING.RazorAssemblyInfo.cs
+/Users/rattanun.champ/SourceCode/DOTNET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/SCGEX_TRAINING.AssemblyInfoInputs.cache
+/Users/rattanun.champ/SourceCode/DOTNET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/SCGEX_TRAINING.AssemblyInfo.cs
+/Users/rattanun.champ/SourceCode/DOTNET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/SCGEX_TRAINING.TagHelpers.input.cache
+/Users/rattanun.champ/SourceCode/DOTNET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/SCGEX_TRAINING.TagHelpers.output.cache
+/Users/rattanun.champ/SourceCode/DOTNET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/SCGEX_TRAINING.RazorCoreGenerate.cache
+/Users/rattanun.champ/SourceCode/DOTNET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/Razor/Views/Home/Index.g.cshtml.cs
+/Users/rattanun.champ/SourceCode/DOTNET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/Razor/Views/Home/Privacy.g.cshtml.cs
+/Users/rattanun.champ/SourceCode/DOTNET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/Razor/Views/Machines/AddProducts.g.cshtml.cs
+/Users/rattanun.champ/SourceCode/DOTNET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/Razor/Views/Machines/Index.g.cshtml.cs
+/Users/rattanun.champ/SourceCode/DOTNET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/Razor/Views/Shapes/Circle.g.cshtml.cs
+/Users/rattanun.champ/SourceCode/DOTNET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Dot.g.cshtml.cs
+/Users/rattanun.champ/SourceCode/DOTNET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Error.g.cshtml.cs
+/Users/rattanun.champ/SourceCode/DOTNET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+/Users/rattanun.champ/SourceCode/DOTNET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
+/Users/rattanun.champ/SourceCode/DOTNET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+/Users/rattanun.champ/SourceCode/DOTNET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/Razor/Views/_ViewImports.g.cshtml.cs
+/Users/rattanun.champ/SourceCode/DOTNET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/Razor/Views/_ViewStart.g.cshtml.cs
+/Users/rattanun.champ/SourceCode/DOTNET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/SCGEX_TRAINING.RazorTargetAssemblyInfo.cache
+/Users/rattanun.champ/SourceCode/DOTNET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/SCGEX_TRAINING.RazorTargetAssemblyInfo.cs
+/Users/rattanun.champ/SourceCode/DOTNET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/SCGEX_TRAINING.Views.pdb
+/Users/rattanun.champ/SourceCode/DOTNET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/SCGEX_TRAINING.dll
+/Users/rattanun.champ/SourceCode/DOTNET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/SCGEX_TRAINING.pdb
+/Users/rattanun.champ/SourceCode/DOTNET/SCGEX_TRAINING/SCGEX_TRAINING/obj/Debug/netcoreapp2.2/SCGEX_TRAINING.csproj.CopyComplete

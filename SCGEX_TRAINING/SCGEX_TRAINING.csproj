@@ -1,0 +1,40 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+  </PropertyGroup>
+
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.App" />
+    <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.2.0" PrivateAssets="All" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Proxies" Version="2.2.2" />
+    <PackageReference Include="Rotativa.AspNetCore" Version="1.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Views\Shapes\" />
+    <Folder Include="Views\Machines\" />
+    <Folder Include="Data\" />
+    <Folder Include="ViewModels\" />
+    <Folder Include="Services\" />
+    <Folder Include="Files\" />
+    <Folder Include="wwwroot\Files\" />
+    <Folder Include="wwwroot\Rotativa\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Remove="Views\Shapes\Index.cshtml" />
+    <Content Remove="wwwroot\Files\PIC_001.jpg" />
+    <Content Remove="wwwroot\Rotativa\wkhtmltopdf.exe" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="db.sql" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="Controllers\ShapesController %28copy%29.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="wwwroot\Rotativa\wkhtmltopdf.exe" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,2 @@
+2019-03-01T14:52:29: Machine #1 has accepted 50 Baht
+2019-03-01T14:55:23: Machine #1 has Clear Coin

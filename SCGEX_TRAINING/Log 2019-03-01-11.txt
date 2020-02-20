@@ -1,0 +1,2 @@
+2019-03-01T11:11:36: Machine #2 has accepted 100 Baht
+2019-03-01T11:13:27: Machine #1 has accepted 100 Baht

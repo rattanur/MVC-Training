@@ -1,0 +1,47 @@
+﻿@model List<Category>
+@using Microsoft.AspNetCore.Hosting
+@inject IHostingEnvironment env
+
+@if (env.IsProduction())
+{
+    <div class="bg-danger p-2 rounded text-white text-center">
+        <b>PRODUCTION</b>
+    </div>
+}
+
+@if (env.IsDevelopment())
+{
+    <div class="bg-danger p-2 rounded text-white text-center">
+        <b>DEVELOPMENT</b>
+    </div>
+}
+
+<br />
+<div>
+    <center>
+        <h2>
+            <partial name="Dot" model='new Circle { Radius=10, Color="red" }' />
+            <partial name="Dot" model='new Circle { Radius=5, Color="yellow" }' />
+            <partial name="Dot" model='new Circle { Radius=5, Color="green" }' />
+            Home
+            <partial name="Dot" model='new Circle { Radius=5, Color="green" }' />
+            <partial name="Dot" model='new Circle { Radius=5, Color="yellow" }' />
+            <partial name="Dot" model='new Circle { Radius=10, Color="red" }' />
+        </h2>
+    </center>
+</div>
+<br />
+
+<center><a href="http://next.greatfriends.biz/ClassTrack/on/6D16C3DB" target="_blank">~~ Note ~~</a></center> <br />
+<center><a asp-action="TestReturnPDF" target="_blank">~~ View Hand Book ~~</a></center> <br />
+
+<center><img src="~/Home/TestReturnPicture" class="rounded" /></center>
+
+<br />
+<br />
+<ul>
+    @foreach (var c in Model)
+    {
+        <li>@c.Name</li>
+    }
+</ul>

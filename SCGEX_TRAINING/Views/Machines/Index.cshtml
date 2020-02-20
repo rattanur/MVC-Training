@@ -1,0 +1,80 @@
+﻿@model Machine
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Index</h2>
+
+<select asp-items="@ViewBag.MachinesList" onchange="window.location = `/machines/${this.value}`;">
+    <option></option>
+</select>
+
+<div class="card-deck mt-3">
+    @foreach (var s in Model.Slots)
+    {
+        <div class="card border-dark w-25">
+            <div class="card-body">
+                <strong>@s.ProductName</strong>
+                <div>@s.Quantity</div>
+                <div>@s.Price</div>
+            </div>
+        </div>
+    }
+</div>
+
+<div class="float-right ml-3">
+    <canvas id="canvas"></canvas>
+    <a asp-action="AddProducts" asp-route-id="@Model.Id" class="btn btn-outline-secondary btn-block">Add Products</a>
+</div>
+
+@if (@TempData["Error"] != null)
+{
+    <div class="alert alert-danger"> @TempData["Error"]</div>
+}
+
+
+    <div class="Card border-dark shadow">
+        <div class="card-body">
+            <script src="bundle.js"></script>
+            <h3 class="float-right">@Model.TotalAmount</h3>
+
+
+            <form action="/machines/accepts/@Model.Id" method="post">
+
+                @foreach (var coin in Model.AcceptableCoins)
+                {
+                    <button type="submit" name="amount" value="@coin"
+                            class="btn btn-light border-secondary">
+                        @coin
+                    </button>
+                }
+
+            </form>
+        </div>
+
+        <div class="Card border-dark shadow">
+            <div class="card-body">
+                <form asp-action="Clear" asp-controller="Machines" asp-route-id="@Model.Id" method="post"> <button type="submit" name="clear" class="btn bth-light">Clear</button> </form>
+            </div>
+        </div>
+
+        <div class="Card border-dark shadow">
+            <div class="card-body">
+                <form action="/machines/switchoff/@Model.Id" method="post"> <button type="submit" name="switch" class="btn bth-light">Switch Off</button> </form>
+                <div> <h1> </h1> </div>
+                <form action="/machines/switchon/@Model.Id" method="post"> <button type="submit" name="switch" class="btn bth-light">Switch On</button> </form>
+            </div>
+        </div>
+
+        @section Scripts {
+
+        <script src="/lib/qrcode.min.js"></script>
+        <script>
+              QRCode.toCanvas(document.getElementById('canvas'), 'sample text', function (error) {
+                if (error) console.error(error)
+                console.log('success!');
+              })
+        </script>
+
+        }

@@ -1,0 +1,14 @@
+2019-03-01T10:00:50: Machine #4 has accepted 10 Baht
+2019-03-01T10:00:52: Machine #4 has accepted 10 Baht
+2019-03-01T10:00:53: Machine #4 has accepted 10 Baht
+2019-03-01T10:00:54: Machine #4 has accepted 10 Baht
+2019-03-01T10:00:55: Machine #4 has accepted 10 Baht
+2019-03-01T10:00:56: Machine #4 has accepted 10 Baht
+2019-03-01T10:00:58: Machine #4 has accepted 10 Baht
+2019-03-01T10:01:00: Machine #4 has accepted 10 Baht
+2019-03-01T10:01:01: Machine #4 has accepted 10 Baht
+2019-03-01T10:01:04: Machine #4 has accepted 10 Baht
+2019-03-01T10:01:05: Machine #4 has accepted 10 Baht
+2019-03-01T10:01:06: Machine #4 has accepted 10 Baht
+2019-03-01T10:08:00: Machine #4 has accepted 100 Baht
+2019-03-01T10:08:03: Machine #4 has accepted 100 Baht

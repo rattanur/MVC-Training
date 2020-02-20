@@ -1,0 +1,10 @@
+﻿@model Circle
+
+@{
+    int w = (Model.Radius * 2) + 2;
+}
+
+
+<svg width="@w" height="@w">
+    <circle cx="@Model.Radius" cy="@Model.Radius" r="@Model.Radius" fill="@Model.Color"/>
+</svg>

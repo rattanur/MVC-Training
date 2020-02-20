@@ -1,0 +1,39 @@
+﻿@model MachinesAddProductsVM
+
+@{
+    ViewData["Title"] = "AddProducts";
+}
+
+<h1>Add Products</h1>
+
+<form asp-action="AddProducts"
+      asp-route-id="@Model.MachineId" method="post">
+
+    <input type="hidden" asp-for="MachineId" />
+
+    <div class="form-group">
+        <select asp-for="ProductInfoCode"
+                asp-items="@ViewBag.ProductInfoCodeList"></select>
+    </div>
+
+    <div class="form-group">
+        <input asp-for="Quantity" type="number" />
+        <div class="text-danger">
+            <span asp-validation-for="Quantity"></span>
+        </div>
+    </div>
+
+    <div class="form-group">
+        <input asp-for="ExpiredDate" type="date" />
+    </div>
+
+    <div class="form-group">
+        <button class="btn btn-primary">Add</button>
+
+        <a asp-action="Index" asp-route-id="@Model.MachineId">Back</a>
+    </div>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

@@ -1,0 +1,27 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@model Circle
+
+@{
+    ViewData["Title"] = "Circel";
+    int w = (Model.Radius * 2) + 2;
+}
+
+<h1>Circle - @Model.Radius - @Model.Color</h1>
+
+@ViewBag.Message
+
+<svg width="@w" height="@w">
+    <circle cx="@Model.Radius" cy="@Model.Radius" r="@Model.Radius" fill="@Model.Color" stroke="black" stroke-width="1"/>
+</svg>
+
+@section Scripts{
+
+    <script>
+            $('circle').mouseover(function () { $(this).attr("stroke-width","3");
+            }).mouseout(function (){ $(this).attr("stroke-width","1"); });
+    </script>
+
+}
